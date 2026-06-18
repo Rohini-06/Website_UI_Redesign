@@ -24,3 +24,9 @@ This project redesigns the Facebook mobile interface to improve usability and us
 - Home Screen
 - Profile Screen
 - Logout Screen
+
+## Heuristic Evaluation
+Identified usability issues in the existing Facebook interface and proposed improvements to enhance user experience.
+
+## Conclusion
+The redesign focuses on improving usability, reducing clutter, and enhancing the mobile user experience.
